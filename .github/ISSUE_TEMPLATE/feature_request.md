@@ -1,6 +1,6 @@
 ---
-name: 
-about:
+name: FORTNITE / MINECRAFT
+about: fortnite project / minecraft server
 title: 
 labels: bug, enhancement
 assignees: ''
