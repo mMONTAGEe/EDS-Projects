@@ -10,7 +10,7 @@ currently being supported with security updates.
 | 19.7.x   | :Momekmods.aternos.org:(Minecraft) |
 | 1.6.x   | Island zone wars (fortnite)          |
 | 1.5.x   | :Momekclassic.aternos.org:(Minecraft) |
-|  1.1  | WAR OF LEGENDS (fortntie)           |
+|  1.1  | WAR OF LEGENDS (fortnite)           |
 
 ## Reporting a Vulnerability
 
