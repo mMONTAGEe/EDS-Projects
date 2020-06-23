@@ -1,5 +1,4 @@
-![EDS LOGO](Images/edslogosmall.png)
-# EDS-Team
+# EDS-Team  ![EDS LOGO](Images/edslogosmall.png)
 Our projects would be posted here
 For better Understanding download the .rtf file. it will get updated regulary if changed being maded
 
