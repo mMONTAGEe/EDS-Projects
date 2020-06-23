@@ -9,7 +9,7 @@ The Leader - Razor
 
 Co Leaders - Thype, mMONTAGEe
 
-Members - SAQO, Acul1t
+Members - SAQO, Acul1te
 
 
 ---------ABOUT---------
