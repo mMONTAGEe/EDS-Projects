@@ -18,6 +18,7 @@ Warning our General leader sometimes explode while playing battle royales. so be
 
 -----------SOCIAL MEDIAS----------
 Our main place are Discord - https://discord.gg/weqxsMP
+
 Our Twitter - https://twitter.com/EDS_Clan_
 
 
