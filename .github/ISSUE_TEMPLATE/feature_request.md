@@ -1,7 +1,7 @@
 ---
 name: FORTNITE PROJECTS
 about: fortnite project By THYPE and Razor
-title: 
+title: ''
 labels: bug, enhancement
 assignees: ''
 
@@ -17,4 +17,3 @@ assignees: ''
 
 
 **Additional context**
-
