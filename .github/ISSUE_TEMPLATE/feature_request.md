@@ -1,19 +1,19 @@
 ---
-name: FORTNITE / MINECRAFT
-about: fortnite project / minecraft server
+name: FORTNITE PROJECTS
+about: fortnite project By THYPE and Razor
 title: 
 labels: bug, enhancement
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
+**Describe your Issue**
 
 
 **Describe the solution you'd like**
 
 
-**Describe alternatives you've considered**
+**Possible screenshot's **
 
 
 **Additional context**
