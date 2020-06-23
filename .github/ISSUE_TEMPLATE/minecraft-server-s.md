@@ -10,14 +10,13 @@ assignees: mMONTAGEe
 ----------------Please fill in the form below--------------
 Minecraft version: 
 Server Address:
-Galacticraft version: 
 Windows OS/Mac OS/ Linux:
 Speedtest result
-Other add-ons
+
 
 
 ----------CRASH LOG ATTACH HERE------------------
-               *IF CRASH HAPPENED*
+            *IF CRASH HAPPENED*
 
 
 
