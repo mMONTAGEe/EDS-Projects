@@ -1,4 +1,4 @@
-![EDS LOGO](Images/edslogosmall.png)   ![mMONTAGEe](Images/CryptoTransparent.png)
+![EDS LOGO](Images/edslogosmall.png)   ![mMONTAGEe](Images/Cryptotransparentsmall.png)
 # EDS-Team  
 Our projects would be posted here
 For better Understanding download the .rtf file. it will get updated regulary if changed being maded
