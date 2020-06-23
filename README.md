@@ -1,4 +1,4 @@
-![EDS LOGO](Images/edslogosmall.png)
+![EDS LOGO](Images/edslogosmall.png)   ![mMONTAGEe](Images/Cryptotransparent.png)
 # EDS-Team  
 Our projects would be posted here
 For better Understanding download the .rtf file. it will get updated regulary if changed being maded
@@ -31,4 +31,4 @@ Warning our General leader sometimes explode while playing battle royales. so be
 By mMONTAGEe
 
 
-![mMONTAGEe](Images/Cryptotransparent.png)
+
