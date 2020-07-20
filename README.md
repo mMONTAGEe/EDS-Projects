@@ -7,7 +7,9 @@ The Leader - Razor
 
 Co Leaders - Thype, mMONTAGEe
 
-Members - SAQO, 
+Members - SAQO,Bildfight
+
+Friends - Gleb
 
 
 ---------ABOUT---------
